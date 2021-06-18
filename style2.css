@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+.red-text {
+    color: pink;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    background-color: blue;
+}
+img {
+    width: 1000px;
+    height: 1000px;
+    object-fit: cover;
+    border: 1px solid blue;
+    border-radius: 50%;
+}
+body {
+    background-color: chocolate;
+}
+h1 {
+    padding: 30px;
+}
